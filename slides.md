@@ -150,7 +150,7 @@ Another typical characteristic of language technology is that it is divisive:
 ## LT divide
 
 Empowering those with access, leaving those without behind. As such it can easily
-be a driver in language death — to take part in the society at large, you can't
+be a driver in language extinction — to take part in the society at large, you can't
 use your own language because the society expects use of certain technologies:
 
 <v-clicks>
@@ -196,7 +196,9 @@ Typically, minority languages share a number of characteristics:
 
 <v-clicks>
 
-That is, the dominating language technology paradigm (ML) has nothing to offer.
+That is, the dominating language technology paradigm — machine learning & neural nets (ML) — has very little to offer.
+
+Especially since normativity and language care and support is much more central to minorities.
 
 </v-clicks>
 
@@ -218,10 +220,14 @@ The best solution is to ensure that everything is **open source**. All resources
 
 Because of the costs of language technology projects, it is important to build your infra and resources with reuse in mind, and also plan them so that everything is prepared for multiple usage scenarios.
 
-E.g. in the GiellaLT infrastructure, we have standardised conventions that makes it easy to build both normative and descriptive tools from the same codebase.
+E.g. in the GiellaLT infrastructure, we have standardised conventions that makes it easy to build both **normative** and **descriptive** tools from the same codebase.
 
-* **normative:** tools that adhere strictly to an agreed-upon norm for writing, and try to correct text so that deviations are brought in line with the norm: spelling checkers and grammar checkers.
-* **descriptive:** tools that try to process all texts in a language, including erroneous and non-standard texts
+<v-clicks>
+
+* **normative:** tools that adhere strictly to an agreed-upon norm for writing, and try to correct text so that deviations are brought in line with the norm: spelling checkers and grammar checkers.<br/>*The language as it should be.*
+* **descriptive:** tools that try to process all texts in a language, including erroneous and non-standard texts<br/>*The language as it really is.*
+
+</v-clicks>
 
 ---
 
@@ -288,7 +294,7 @@ layout: section
 * scalability in two dimensions: languages x tools/products
 * standardised dir & file structure
 * encourages and facilitates international cooperation
-* ~130 languages in our infra (at various stages), 30+ in active development
+* ~140 languages in our infra (at various stages), 30+ in active development
     * almost all of them minority languages
     * majority language grammars and LT resources mainly to support the minority languages
 
@@ -301,7 +307,7 @@ layout: section
 <v-clicks>
 
 * for languages:
-    * template for all resources needed
+    * template for all resources needed to start a new language grammar
 * for tools:
     * add support for a new tool to the template, and propagate it to all existing languages
 * core design principle:
@@ -361,7 +367,7 @@ The templating system and the split between language independent and specific co
 
 ## Some language repositories
 
-With maturity and license, bug and build status ([github.com/divvun/registry](https://github.com/divvun/registry)).
+With maturity and license, bug and build status ([giellalt.github.io/LanguageModels.html](https://giellalt.github.io/LanguageModels.html)).
 
 <img src="/registry.png" class="m-10 h-190 rounded shadow" />
 
