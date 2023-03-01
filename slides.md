@@ -792,16 +792,18 @@ Planned support:
 
 </v-clicks>
 
+<div v-after>
+
 Test sample, North Sámi, 5h recordings:
 
 > Lea maid dehálaš ahte juohkehaš beassá ieš mearridit maid hupmá, go buohkat eai soaitte háliidit hupmat dan birra, ja dan galgá maid dohkkehit, lohká son.
-
-<br/>
 
 <audio controls="controls">
   <source type="audio/wav" src="/0002_Lea-mai_FP_1000_M_univnet_nrate.wav"/>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+</div>
 
 ---
 
