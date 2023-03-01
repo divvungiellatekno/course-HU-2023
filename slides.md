@@ -138,12 +138,25 @@ By <a href="https://en.wikipedia.org/wiki/en:Daniel_Chodowiecki" class="extiw" t
 </template>
 
 ---
+layout: two-cols
+---
+
+<template v-slot:default>
 
 ### Today — information technology
 
-Internet a.o.
+<br/>
 
-<img src="/internet.jpg" class="h-120 rounded shadow" />
+<img src="/Applications-internet.svg.png" class="h-150 rounded shadow" />
+
+</template>
+<template v-slot:right>
+
+<br/>
+
+[Source, public domain](https://gv.m.wikipedia.org/wiki/Coadan:Applications-internet.svg)
+
+</template>
 
 ---
 
