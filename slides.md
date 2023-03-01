@@ -715,12 +715,13 @@ layout: center
 
 <v-clicks>
 
-* MS Word (as a web-based office extension for now)
-* GoogleDocs
-* planned support:
-    * macOS (system wide), possibly Windows
-    * LibreOffice
-    * regular MS Office grammar checker for Windows and macOS
+* MS Word (web-based add-on)
+* GoogleDocs (web-based add-on)
+
+Planned support:
+* macOS (system wide), possibly Windows
+* LibreOffice
+* regular MS Office grammar checker for Windows and macOS
 
 </v-clicks>
 
