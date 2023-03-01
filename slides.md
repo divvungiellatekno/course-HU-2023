@@ -883,7 +883,7 @@ layout: two-cols
 > Ja de bosui davvebiegga nu garrasit go sáhtii, muhto mađi eanet son bosui, dađi čavgadeappot vánddardeaddji giesai jáhka iežas birra. De beaivváš báitigođii hui lieggasit, nu lieggasit ahte vánddardeaddji ovttatmanos nuolai jáhka. Ja nie šattai davvebiegga mieđihit ahte beaivváš lei sudnos gievrrat.
 
 <audio controls="controls">
-  <source type="audio/wav" src="/referansa.m4a"/>
+  <source type="audio/wav" src="/referansa.wav"/>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
