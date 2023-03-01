@@ -862,6 +862,39 @@ Test sample, North Sámi, 5h recordings:
 </div>
 
 ---
+layout: two-cols
+---
+
+## Automatic speech recognition (ASR)
+
+<br/>
+<br/>
+
+* experiments w/ only 35 hours of transcribed speech
+* Whisper model
+* very promising, given the starting point
+* first target use:
+    * subtitling
+
+::right::
+
+### Example
+
+> Ja de bosui davvebiegga nu garrasit go sáhtii, muhto mađi eanet son bosui, dađi čavgadeappot vánddardeaddji giesai jáhka iežas birra. De beaivváš báitigođii hui lieggasit, nu lieggasit ahte vánddardeaddji ovttatmanos nuolai jáhka. Ja nie šattai davvebiegga mieđihit ahte beaivváš lei sudnos gievrrat.
+
+<audio controls="controls">
+  <source type="audio/wav" src="/referánsa.m4a"/>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Generated transcript:
+
+> ja de bosui davvebiegga nu garrasit go sáhtii muhto __mađe eanas__ son bosui dađi čávgadeappot vánddardeaddji __geasái__ jahka iežas birra De beaivváš __báikegođii__ hui __lieggasiid__ nu lieggasiid ahte vánddardeaddji __ovttatmánus__ nuolai __jahka__ ja nie šattai davvebiegga __međihit__ ahte beaivváš lei __sutnos kievrrat__
+
+- Errors are bold-faced
+- punctuation is lost
+
+---
 
 ## Dictionaries
 
