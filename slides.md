@@ -988,12 +988,15 @@ Examples:
 ::right::
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
+<v-click>
+
+- not typically visible for majority language speakers
+- usually served by the platforms owners
+- minority languages are "owned" by platform owners
+
+</v-click>
+
 <br/>
 <br/>
 <br/>
