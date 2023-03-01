@@ -445,7 +445,8 @@ layout: section
 All of these are open source except for the Xerox tools (which are free, though). Foma does not support TwolC (see further down).
 
 ---
-
+layout: two-cols
+---
 ## LexC
 
 <br/>
@@ -453,10 +454,10 @@ All of these are open source except for the Xerox tools (which are free, though)
 
 <v-clicks>
 
-* an excellent formalism for concatenative morphology
-* typically, you specify stems and affixes in different lexicons
-* ... to allow for abstractions over stem classes and inflections
-* it is in essence a programming language for linguists
+* excellent for concatenative morphology
+* specify stems and affixes in different lexicons
+    * abstractions over stem classes and inflections
+* a programming language for linguists
 * ... where you spell out the morphology of a language such that a compiler can
   turn it into an executable program
 
@@ -475,6 +476,37 @@ LEXICON nen-adj-inflection
 ```
 
 </v-clicks>
+
+::right::
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<div v-after>
+
+The same as a state diagram:
+
+```mermaid
+stateDiagram-v2
+    direction LR
+    [*] --> iloi: Root
+    iloi --> nen: nen-adj-inflection
+    iloi --> sen: nen-adj-inflection
+    iloi --> sta: nen-adj-inflection
+    nen --> [*]
+    sen --> [*]
+    sta --> [*]
+```
+
+</div>
+
 
 ---
 
