@@ -105,6 +105,8 @@ layout: two-cols
 
 By unknown artist - <a href="//commons.wikimedia.org/wiki/User:Jastrow" title="User:Jastrow">Marie-Lan Nguyen</a> (2005), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=407203">link to original</a>
 
+> Contract for the sale of a field and a house in the wedge-shaped cuneiform adapted for clay tablets, Shuruppak, circa 2600 BC.
+
 </template>
 
 ---
