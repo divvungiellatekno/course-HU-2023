@@ -929,7 +929,7 @@ Generated transcript:
 * morphological analysis, disambiguation, syntactic parsing using our tools
 * corpus data available in many languages
 
-![Korp](/korp_boahtit.png)
+<img alt="Korp" src="/korp_boahtit.png" class="m-10 h-80 rounded shadow" />
 
 ---
 
