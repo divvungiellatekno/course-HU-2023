@@ -94,62 +94,46 @@ A very brief history — from cuneiform to speech recognition
 layout: two-cols
 ---
 
-<template v-slot:default>
-
 ### The first language technology
 
 <img src="/Sales_contract_Shuruppak_Louvre_AO3766.jpg" class="h-120 rounded shadow" />
 
-</template>
-<template v-slot:right>
+::right::
 
 By unknown artist - <a href="//commons.wikimedia.org/wiki/User:Jastrow" title="User:Jastrow">Marie-Lan Nguyen</a> (2005), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=407203">link to original</a>
 
 > Contract for the sale of a field and a house in the wedge-shaped cuneiform adapted for clay tablets, Shuruppak, circa 2600 BC.
 
-</template>
 
 ---
 layout: two-cols
 ---
-
-<template v-slot:default>
 
 ### Some later instances of long-lasting language technology
 
 <img src="/U_240_Lingsberg.jpg" class="h-120 rounded shadow" />
 
-</template>
-<template v-slot:right>
+::right::
 
 Av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2287417">lenke til original</a>
 
 > Lingsbergsteinen i Sverige, katalogisert som «U 240»
 
-</template>
-
 ---
 layout: two-cols
 ---
-
-<template v-slot:default>
 
 ### Some later instances of long-lasting language technology
 
 <img src="/Chodowiecki_Basedow_Tafel_21_c_Z.jpg" class="h-150 rounded shadow" />
 
-</template>
-<template v-slot:right>
+::right::
 
 By <a href="https://en.wikipedia.org/wiki/en:Daniel_Chodowiecki" class="extiw" title="w:en:Daniel Chodowiecki"><span title="German painter and printmaker">Daniel Nikolaus Chodowiecki</span></a> - DANIEL CHODOWIECKI 62 bisher unveröffentlichte Handzeichnungen zu dem Elementarwerk von Johann Bernhard Basedow. Mit einem Vorworte von Max von Boehn. Voigtländer-Tetzner, Frankfurt am Main 1922. (self scanned from book), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=17927966">Link</a>
-
-</template>
 
 ---
 layout: two-cols
 ---
-
-<template v-slot:default>
 
 ### Today — information technology
 
@@ -157,14 +141,11 @@ layout: two-cols
 
 <img src="/Applications-internet.svg.png" class="h-150 rounded shadow" />
 
-</template>
-<template v-slot:right>
+::right::
 
 <br/>
 
 [Source, public domain](https://gv.m.wikipedia.org/wiki/Coadan:Applications-internet.svg)
-
-</template>
 
 ---
 
