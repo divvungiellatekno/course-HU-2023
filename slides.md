@@ -19,12 +19,13 @@ info: |
 # persist drawings in exports and build
 drawings:
   persist: false
-title: "LT for minority languages & the GiellaLT infrastructure"
+title: "The GiellaLT infrastructure & LT for minority languages"
 ---
 
-# LT for minority languages & <br/> the GiellaLT infrastructure
+# The GiellaLT infrastructure & <br/> LT for minority languages
 
-Sjur Nørstebø Moshagen
+Sjur Nørstebø Moshagen <br/>
+The Divvun Group, UiT
 
 ---
 
