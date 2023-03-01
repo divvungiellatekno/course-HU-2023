@@ -97,10 +97,21 @@ A very brief history — from cuneiform to speech recognition
 <img src="/cuneiform.jpg" class="h-120 rounded shadow" />
 
 ---
+layout: two-cols
+---
+
+<template v-slot:default>
 
 ### Some later instances of long-lasting language technology
 
-![Runes](/jelling_runestone.jpg)
+<img src="/U_240_Lingsberg.jpg" class="h-120 rounded shadow" />
+
+</template>
+<template v-slot:right>
+
+Av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2287417">lenke til original</a>
+
+</template>
 
 ---
 
