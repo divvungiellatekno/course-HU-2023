@@ -236,6 +236,7 @@ Typically, minority languages share a number of characteristics:
 * few or non-existing digital resources
 * restricted availability of dictionaries and grammars, or none at all
 * often complex morphology or morphophonology or both
+* consider: ML technology needs
 
 </v-clicks>
 
@@ -243,7 +244,7 @@ Typically, minority languages share a number of characteristics:
 
 That is, the dominating language technology paradigm — machine learning & neural nets (ML) — has very little to offer.
 
-Especially since normativity and language care and support is much more central to minorities.
+Especially since normativity and language care and support is typically much more central to minorities.
 
 </v-clicks>
 
