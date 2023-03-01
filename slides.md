@@ -94,7 +94,7 @@ A very brief history — from cuneiform to speech recognition
 
 ### The first language technology
 
-![Cuneiforms](/cuneiform.jpg)
+<img src="/cuneiform.jpg" class="h-120 rounded shadow" />
 
 ---
 
