@@ -91,10 +91,21 @@ layout: section
 A very brief history — from cuneiform to speech recognition
 
 ---
+layout: two-cols
+---
+
+<template v-slot:default>
 
 ### The first language technology
 
-<img src="/cuneiform.jpg" class="h-120 rounded shadow" />
+<img src="/Sales_contract_Shuruppak_Louvre_AO3766.jpg" class="h-120 rounded shadow" />
+
+</template>
+<template v-slot:right>
+
+By unknown artist - <a href="//commons.wikimedia.org/wiki/User:Jastrow" title="User:Jastrow">Marie-Lan Nguyen</a> (2005), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=407203">link to original</a>
+
+</template>
 
 ---
 layout: two-cols
