@@ -749,43 +749,16 @@ Planned support:
 
 ---
 
-## Text-to-speech systems
+## Text-to-speech
 
 <br/>
 <br/>
+
+<v-clicks>
 
 * Commercial, closed source since 2014 — North Sámi
-* Working on open source solution based on HFST, VislCG and ML
-
----
-
-### Closed source synthesis
-
-<br/>
-<br/>
-
-<v-clicks>
-
-* recordings and text available
-* technology unfortunately from a commercial company = closed source code
-  * we have now been hunted by this - they are closing down the macOS version
-  * we had fortunately already planned a new project for Julev Sámi that is completely built using open source, so we should be good in a couple of years
-* quality very good
-
-</v-clicks>
-
----
-
-### Open-source synthesis
-
-<br/>
-<br/>
-
-<v-clicks>
-
-* the original plan was to use our own text processing for conversion to IPA or similar
-    * we are doing that now, in a new project for Lule Sámi
-* using a similar pipeline to the grammar checker one to produce a phonetic transcription
+* Working on open source solution based on HFST, VislCG and ML - Lule and North Sámi
+* similar pipeline to the grammar checker to make «phonemic» IPA
 * feeding that to the synthesis engine
 * synthesis done using machine learning / neural nets
 * 10 hours of recordings should be enough for high quality synthesis
