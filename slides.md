@@ -361,7 +361,7 @@ The templating system and the split between language independent and specific co
 
 <br/>
 
-<img src="/gtlangs_circumpolar_names.png" class="h-100 rounded shadow" />
+<img src="/gtlangs_circumpolar_names.png" class="h-100 rounded shadow border" />
 
 ---
 
@@ -369,7 +369,7 @@ The templating system and the split between language independent and specific co
 
 With maturity and license, bug and build status ([giellalt.github.io/LanguageModels.html](https://giellalt.github.io/LanguageModels.html)).
 
-<img src="/registry.png" class="m-10 h-190 rounded shadow" />
+<img src="/registry.png" class="m-10 h-120 rounded shadow border" />
 
 ---
 layout: section
