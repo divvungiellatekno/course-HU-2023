@@ -128,7 +128,14 @@ Av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a
 
 ### Some later instances of long-lasting language technology
 
-<img src="/printpress.jpg" class="h-120 rounded shadow" />
+<img src="/Chodowiecki_Basedow_Tafel_21_c_Z.jpg" class="h-150 rounded shadow" />
+
+</template>
+<template v-slot:right>
+
+By <a href="https://en.wikipedia.org/wiki/en:Daniel_Chodowiecki" class="extiw" title="w:en:Daniel Chodowiecki"><span title="German painter and printmaker">Daniel Nikolaus Chodowiecki</span></a> - DANIEL CHODOWIECKI 62 bisher unveröffentlichte Handzeichnungen zu dem Elementarwerk von Johann Bernhard Basedow. Mit einem Vorworte von Max von Boehn. Voigtländer-Tetzner, Frankfurt am Main 1922. (self scanned from book), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=17927966">Link</a>
+
+</template>
 
 ---
 
