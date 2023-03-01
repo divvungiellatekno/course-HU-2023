@@ -262,7 +262,7 @@ The best solution is to ensure that everything is **open source**. All resources
 
 ---
 
-## Reuse and multi-use
+## Reuse, multi-use and normativity
 
 Because of the costs of language technology projects, it is important to build your infra and resources with reuse in mind, and also plan them so that everything is prepared for multiple usage scenarios.
 
