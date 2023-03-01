@@ -434,7 +434,7 @@ LEXICON nen-adj-inflection
 
 <v-clicks>
 
-* Formalism developed by Kimmo Koskenniemi in the early 80's to describe phonological processes
+* Formalism developed by Dr Kimmo Koskenniemi in the early 80's to describe phonological processes
 * resembles quite closely generative rewrite rules of the form:
    ```
    A -> B / C _ D
@@ -475,7 +475,7 @@ Hfst only, this formalism is an extension of the xfst rewrite rules, and are a r
 
 Using this setup it is possible to get the tokenisation almost perfect. In practice we still have some work to do, but we are already well above the alternative methods.
 
-The pmatch scripts are key to a recent addition to our infrastructure: rule-based grammar checking. We are also now developing text-to-speech systems using the pmatch scripts + VISLCG3 processing to turn raw text into disambiguated IPA text streams that can be fed to the synthesis engine.
+The pmatch scripts are key to a recent addition to our infrastructure: rule-based grammar checking. We are also developing text-to-speech systems using pmatch scripts + VISLCG3 processing to turn raw text into disambiguated IPA text streams that can be fed to the synthesis engine.
 
 > For speech synthesis this means that we use rule-based technologies for everything but the actual synthesis modelling, reducing the corpus need to about 10 hours of studio recordings. That is within reach for most language communities.
 
@@ -576,7 +576,8 @@ The end result looks like this:
 
 <img src="/sme-keyboard-speller-dark.jpeg" class="m-10 h-80 rounded shadow" />
 
-The speller is exactly the same fst-based speller as described below, with slight adaptions of the error model to fit the keyboard layout and the errors typically made.
+The speller is exactly the same fst-based speller as described below
+- … with slight adaptions of the error model to cover mis-hits based on the keyboard layout
 
 ---
 layout: two-cols
@@ -584,8 +585,8 @@ layout: two-cols
 
 ### Locale registration
 
-As part of the desktop keyboard installers, the locale <br/>
-of the keyboard is added to the system:
+As part of desktop keyboard installers, the locale <br/>
+of the keyboard is added to Windows:
 
 <v-click>
 
@@ -599,7 +600,7 @@ of the keyboard is added to the system:
 
 <v-clicks>
 
-So that languages unknown to Windows and macOS is subsequently known and can be used for spell checking:
+Languages unknown to Windows is subsequently known and can be used for spell checking:
 
 ![Plains Cree in MS Word](/PlainsCreeWord.png)
 
