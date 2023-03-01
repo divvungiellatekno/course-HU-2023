@@ -832,7 +832,7 @@ Planned support:
 
 ---
 
-## Text-to-speech
+## Text-to-speech (TTS)
 
 <br/>
 <br/>
