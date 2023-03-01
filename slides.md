@@ -122,9 +122,15 @@ layout: two-cols
 
 Av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2287417">lenke til original</a>
 
+> Lingsbergsteinen i Sverige, katalogisert som «U 240»
+
 </template>
 
 ---
+layout: two-cols
+---
+
+<template v-slot:default>
 
 ### Some later instances of long-lasting language technology
 
