@@ -250,18 +250,6 @@ Especially since normativity and language care and support is typically much mor
 
 ---
 
-## Ownership
-
-It is important that language communities have control over language resources relating to their language, in the sense that no private entity can block access to those resources. Otherwise the society will risk vendor lock-in, and expensive redevelopment of existing tools and resources.
-
-> — Despite being aware of this, we have experienced it **twice**!
-
-The best solution is to ensure that everything is **open source**. All resources and tools in the GiellaLT infra are open source, unless forced to by software we integrate with (MS Office is one such case). Also, some language communities do not want their language to be openly accessible, due to a history of being colonialised, oppressed and their language becoming stigmatised. In such cases we of course follow their decision.
-
-![Open Source](/opensourceimages.jpg)
-
----
-
 ## Reuse, multi-use and normativity
 
 Because of the costs of language technology projects, it is important to build your infra and resources with reuse in mind, and also plan them so that everything is prepared for multiple usage scenarios.
@@ -925,6 +913,100 @@ Generated transcript:
 * corpus data available in many languages
 
 <img alt="Korp" src="/korp_boahtit.png" class="m-10 h-80 rounded shadow" />
+
+---
+layout: section
+---
+
+# Ownership section
+
+- data ownership
+- technology ownership
+- platform ownership
+
+---
+
+## Data Ownership
+
+It is important that language communities have control over language resources relating to their language, in the sense that no private entity can block access to those resources. Otherwise the society will risk vendor lock-in, and expensive redevelopment of existing tools and resources.
+
+> — Despite being aware of this, we have experienced it **twice**!
+
+The best solution is to ensure that everything is **open source**. All resources and tools in the GiellaLT infra are open source, unless forced to by software we integrate with (MS Office is one such case). Also, some language communities do not want their language to be openly accessible, due to a history of being colonialised, oppressed and their language becoming stigmatised. In such cases we of course respect their view.
+
+![Open Source](/opensourceimages.jpg)
+
+---
+
+## Technology ownership
+
+<br/>
+<br/>
+
+<v-clicks>
+
+* the earlier cases were mainly due to technology lock-in - the data was ours
+* solution: develop or use open source technology:
+    * HFST (spellers, morphological analysers, etc)
+    * speech technology
+* a major part of our technology stack is nowadays under our controll
+    * see [github.com/divvun](https://github.com/divvun)
+
+</v-clicks>
+
+---
+layout: two-cols
+---
+
+## Platform ownership
+
+<br/>
+<br/>
+
+<v-click>
+
+* we can't obviously own the platforms
+* more and more is moving mobile or to net services
+* these platforms are mostly very locked
+* language services for minority languages are non-existing
+
+</v-click>
+
+<br/>
+
+<v-click>
+
+Examples:
+
+- user interface texts (localisation)
+- spellers & proofing tools
+- speech technology
+- OCR (convert a photo of text to real text, then read it aloud)
+
+</v-click>
+
+::right::
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<v-click>
+
+Ideas for solutions:
+
+* regulations
+* split language independent underlying code from language servicdes
+* make the linguistic parts (all parts!) of a system belong to the language community
+
+</v-click>
 
 ---
 
