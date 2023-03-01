@@ -169,7 +169,7 @@ The term language technology is restricted to actual processing of language data
 The ultimate dream of language technology is speech-to-speech machine translation
 of unrestricted language:
 
-<img src="/spoken-MT-images.jpg" class="h-100 rounded shadow" />
+<img src="/spoken-MT-images.jpg" class="h-80 rounded shadow" />
 
 ---
 
