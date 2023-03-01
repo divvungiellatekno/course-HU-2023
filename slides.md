@@ -1012,6 +1012,8 @@ Ideas for solutions:
 </v-click>
 
 ---
+layout: two-cols
+---
 
 # Summary
 
@@ -1022,6 +1024,15 @@ Ideas for solutions:
 <br/>
 
 <img src="/hus_eng_ny.png" class="h-80 rounded shadow" />
+
+::right::
+
+<br/>
+<br/>
+<br/>
+
+- data and technology ownership mostly ok
+- platform ownership and access controll a major problem
 
 ---
 
@@ -1036,6 +1047,7 @@ Everything easily accessible in GitHub, everyone can edit and contribute.
 - Tool source code: [github.com/divvun](https://github.com/divvun/)
 - Korp:  [gtweb.uit.no/korp/](http://gtweb.uit.no/korp/)
 - Machine translation: [jorgal.uit.no](http://jorgal.uit.no/)
+- Documentation: [giellalt.github.io](https://giellalt.github.io)
 
 ---
 layout: end
