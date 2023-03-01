@@ -109,7 +109,7 @@ By unknown artist - <a href="//commons.wikimedia.org/wiki/User:Jastrow" title="U
 layout: two-cols
 ---
 
-### Some later instances of long-lasting language technology
+### Another instance of long-lasting language technology
 
 <img src="/U_240_Lingsberg.jpg" class="h-120 rounded shadow" />
 
@@ -117,17 +117,28 @@ layout: two-cols
 
 Av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2287417">lenke til original</a>
 
-> Lingsbergsteinen i Sverige, katalogisert som «U 240»
+> Lingsbergsteinen i Sverige, katalogisert som «U 240», ca 1040
+>
+> <br/>
+>
+> «Dan och Húskarl och Sveinn och Holmfríð, modern och (hennes) söner, uppförde denna sten till minne av Halfdan, fadern till Dan och hans bröder; och Holmfríð till minne av sin man»
 
 ---
 layout: two-cols
 ---
 
-### Some later instances of long-lasting language technology
+### A third instance of long-lasting language technology
 
-<img src="/Chodowiecki_Basedow_Tafel_21_c_Z.jpg" class="h-150 rounded shadow" />
+<br/>
+
+<img src="/Chodowiecki_Basedow_Tafel_21_c_Z.jpg" class="h-80 rounded shadow" />
 
 ::right::
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 By <a href="https://en.wikipedia.org/wiki/en:Daniel_Chodowiecki" class="extiw" title="w:en:Daniel Chodowiecki"><span title="German painter and printmaker">Daniel Nikolaus Chodowiecki</span></a> - DANIEL CHODOWIECKI 62 bisher unveröffentlichte Handzeichnungen zu dem Elementarwerk von Johann Bernhard Basedow. Mit einem Vorworte von Max von Boehn. Voigtländer-Tetzner, Frankfurt am Main 1922. (self scanned from book), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=17927966">Link</a>
 
@@ -139,13 +150,15 @@ layout: two-cols
 
 <br/>
 
-<img src="/Applications-internet.svg.png" class="h-150 rounded shadow" />
+<img src="/Applications-internet.svg.png" class="h-100 rounded shadow" />
 
 ::right::
 
 <br/>
 
 [Source, public domain](https://gv.m.wikipedia.org/wiki/Coadan:Applications-internet.svg)
+
+Does only last as long as the storage (or much shorter), in contrast with older technologies.
 
 ---
 
