@@ -161,6 +161,8 @@ layout: two-cols
 Does only last as long as the storage (or much shorter), in contrast with older technologies.
 
 ---
+layout: two-cols
+---
 
 ### Language technology proper
 
@@ -170,6 +172,14 @@ The ultimate dream of language technology is speech-to-speech machine translatio
 of unrestricted language:
 
 <img src="/spoken-MT-images.jpg" class="h-80 rounded shadow" />
+
+::right::
+
+<br/>
+
+Or ChatGPT?
+
+<img src="/openai-chatgpt.png" class="h-80 rounded shadow" />
 
 ---
 
