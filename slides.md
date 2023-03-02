@@ -96,9 +96,14 @@ layout: two-cols
 
 ### The first language technology
 
-<img src="/Sales_contract_Shuruppak_Louvre_AO3766.jpg" class="h-120 rounded shadow" />
+<br/>
+
+<img src="/Sales_contract_Shuruppak_Louvre_AO3766.jpg" class="h-100 rounded shadow" />
 
 ::right::
+
+<br/>
+<br/>
 
 By unknown artist - <a href="//commons.wikimedia.org/wiki/User:Jastrow" title="User:Jastrow">Marie-Lan Nguyen</a> (2005), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=407203">link to original</a>
 
@@ -111,9 +116,15 @@ layout: two-cols
 
 ### Another instance of long-lasting language technology
 
-<img src="/U_240_Lingsberg.jpg" class="h-120 rounded shadow" />
+<br/>
+
+<img src="/U_240_Lingsberg.jpg" class="h-100 rounded shadow" />
 
 ::right::
+
+<br/>
+<br/>
+<br/>
 
 Av <a href="//commons.wikimedia.org/wiki/User:Berig" title="User:Berig">Berig</a>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2287417">lenke til original</a>
 
@@ -155,8 +166,12 @@ layout: two-cols
 ::right::
 
 <br/>
+<br/>
 
 [Source, public domain](https://gv.m.wikipedia.org/wiki/Coadan:Applications-internet.svg)
+
+<br/>
+<br/>
 
 Does only last as long as the storage (or much shorter), in contrast with older technologies.
 
@@ -211,6 +226,8 @@ Another typical characteristic of language technology is that it is divisive:
 
 * those with access
 * those without
+
+<br/>
 
 ![digital divide](/293-2067-1-PB.jpg)
 
