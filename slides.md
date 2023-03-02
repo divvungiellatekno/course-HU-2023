@@ -945,6 +945,8 @@ The best solution is to ensure that everything is **open source**. All resources
 
 - who owns the data that Whisper is built on?
 - how has that data been collected?
+- what does this mean for open source data?
+- especially for indigenous and minority language communities?
 
 ---
 
