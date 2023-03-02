@@ -918,7 +918,7 @@ Generated transcript:
 layout: section
 ---
 
-# Ownership section
+# Ownership
 
 - data ownership
 - technology ownership
