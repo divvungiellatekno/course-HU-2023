@@ -1051,4 +1051,7 @@ Everything easily accessible in GitHub, everyone can edit and contribute.
 
 ---
 layout: end
+background: uit_bakgrunn.png
 ---
+
+Giitu!
