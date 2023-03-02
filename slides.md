@@ -1035,6 +1035,8 @@ layout: two-cols
 - platform ownership and access controll a major problem
 
 ---
+class: ‘text-center’
+--- 
 
 ## Links
 
@@ -1049,9 +1051,17 @@ Everything easily accessible in GitHub, everyone can edit and contribute.
 - Machine translation: [jorgal.uit.no](http://jorgal.uit.no/)
 - Documentation: [giellalt.github.io](https://giellalt.github.io)
 
----
-layout: end
-background: uit_bakgrunn.png
----
+
+<br/>
+
+- AI critique:
+    - [Whisper](https://blog.papareo.nz/whisper-is-another-case-study-in-colonisation/)
+    - [Third world data tagging](https://time.com/6247678/openai-chatgpt-kenya-workers/)
+
+<br/>
 
 Giitu!
+
+---
+layout: end
+---
