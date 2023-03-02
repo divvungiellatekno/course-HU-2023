@@ -166,20 +166,36 @@ layout: two-cols
 
 ### Language technology proper
 
-The term language technology is restricted to actual processing of language data
-- be it speech or text or video (as when processing signed languages).
-The ultimate dream of language technology is speech-to-speech machine translation
+The term language technology is restricted to actual processing of language
+data — be it speech or text or video (as when processing signed languages).
+
+The ultimate dream of language technology is speech-to-speech machine translation<br/>
 of unrestricted language:
 
-<img src="/spoken-MT-images.jpg" class="h-80 rounded shadow" />
+<a href="https://poetsandquants.com/2014/07/02/when-translators-make-sense-for-applicants/">
+<img src="/spoken-MT-images.jpg" class="h-75 rounded shadow" />
+<br/>
+Image source
+</a>
 
 ::right::
 
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-Or ChatGPT?
+— Or maybe a speaking ChatGPT bot?
 
-<img src="/openai-chatgpt.png" class="h-80 rounded shadow" />
+<a href="https://www.springboard.com/blog/news/chatgpt-revolution/">
+<img src="/openai-chatgpt.png" class="h-75 rounded shadow" />
+<br/>
+Image source
+</a>
 
 ---
 
